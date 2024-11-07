@@ -17,7 +17,7 @@
 
 ## Acerca del proyecto
 
-[![Vista desktop][product-screenshot-desktop]](#)
+
 
 Este proyecto es una actividad recomendada de realizar por el programa G7 ONE. La idea es poner en práctica lo aprendido con este challenge.
 
