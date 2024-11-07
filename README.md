@@ -6,9 +6,9 @@
   <h3 align="center">Alurageek</h3>
 
   <p align="center">
-    Challenge ONE | Alurageek
+    Challenge G7 de ONE | Alurageek
     <br />
-    <a href="https://alexanderpolanco.github.io/challenge-one-alurageek/" target="_blank"><strong>Ver demo »</strong></a>
+    <a href="#" target="_blank"><strong>Ver demo »</strong></a>
     <br />
   </p>
 </div>
@@ -17,9 +17,9 @@
 
 ## Acerca del proyecto
 
-[![Vista desktop][product-screenshot-desktop]](https://alexanderpolanco.github.io/challenge-one-alurageek/)
+[![Vista desktop][product-screenshot-desktop]](#)
 
-Este proyecto es una actividad recomendada de realizar por el programa G6 ONE. La idea es poner en práctica lo aprendido con este challenge.
+Este proyecto es una actividad recomendada de realizar por el programa G7 ONE. La idea es poner en práctica lo aprendido con este challenge.
 
 ### Requisitos para la construcción del proyecto
 
@@ -33,7 +33,7 @@ Este proyecto es una actividad recomendada de realizar por el programa G6 ONE. L
 ### Demo en móvil
 
 <p align="center">
-<a href="https://alexanderpolanco.github.io/challenge-one-alurageek/" target="_blank"><img width="200px" src="./assets/img/demo.gif"/></a>
+<a href="#" target="_blank"><img width="200px" src="./assets/img/demo.gif"/></a>
 </p>
 
 ### Desarrollo
@@ -150,12 +150,6 @@ console.log(await bd.execute("tabla").find(filter));
 ```
 
 <i>La primera vez que se ejecuta la aplicación, se agregan a la base de datos unos productos de ejemplo.</i>
-
-<!-- LICENSE -->
-
-## Licencia
-
-Distribuido bajo licencia GPL. Ver `LICENSE.txt` para más información.
 
 <p align="right">(<a href="#encabezado">back to top</a>)</p>
 

@@ -13,7 +13,7 @@
 :root {
   --white-100: rgba(255, 255, 255, 100%);
   --white-50: rgba(255, 255, 255, 50%);
-  --black-30: rgba(0, 0, 0, 30%);
+  --black-30: rgba(0, 225, 255, 0.3);
   --black-100: rgba(0, 0, 0, 100%);
   --red-100: rgb(185, 44, 44);
   --background-general: linear-gradient(
@@ -22,10 +22,10 @@
     #e3eeff 99%,
     #e3eeff 100%
   );
-  --yellow-gradient: linear-gradient(315deg, #ffc208 50%, #ffdd00 100%);
-  --pink-gradient: linear-gradient(315deg, #e80185 50%, #ff3ad5 100%);
-  --blue-gradient: linear-gradient(315deg, #4800ff 50%, #7f53ff 100%);
-  --blue: rgb(62, 0, 219);
+  --yellow-gradient: linear-gradient(315deg, #08ff52 50%, #ffdd00 100%);
+  --pink-gradient: linear-gradient(315deg, #e80185 50%, #00eeff 100%);
+  --blue-gradient: linear-gradient(315deg, #4800ff 50%, #ff028d 100%);
+  --blue: rgb(0, 33, 219);
   scroll-behavior: smooth;
   font-family: Montserrat, sans-serif;
   font-weight: 500;
@@ -135,10 +135,12 @@ main {
 }
 
 .product-name {
+  font-family: 'Courier New', Courier, monospace;
   margin: 8px 0px;
 }
 
 .product-price {
+  font-family: 'Courier New', Courier, monospace;
   margin: 0px;
   color: rgba(255, 255, 255, 100%);
 }

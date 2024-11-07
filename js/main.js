@@ -100,7 +100,7 @@ $form.addEventListener("submit", (e) => {
 });
 
 /**
- * SOLO SE EJECUTA LA PRIMERA VEZ PARA CARGAR LOS DATOS DE EJEMPLOS
+ * SOLO SE EJECUTA LA PRIMERA VEZ PARA CARGAR LOS PRODUCTOS DE EJEMPLOS
  */
 if (bd.getLastID === 0) {
   bd.importData(data);
