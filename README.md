@@ -33,7 +33,7 @@ Este proyecto es una actividad recomendada de realizar por el programa G7 ONE. L
 ### Demo en móvil
 
 <p align="center">
-<a href="#" target="_blank"><img width="200px" src="./assets/img/demo.gif"/></a>
+<a></a>
 </p>
 
 ### Desarrollo
